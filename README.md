@@ -1,16 +1,25 @@
 Olá! Eu sou Rafael Ferraioli 👋
 
-Sou estudante de Administração e tenho interesse em tecnologia, desenvolvimento de sistemas, dados e automação de processos.
+Sou formado de Administração e tenho interesse em tecnologia, desenvolvimento de sistemas, dados e automação de processos.
 
 Busco unir conhecimentos de gestão e tecnologia para desenvolver soluções que possam resolver problemas reais, melhorar processos e transformar dados em informações úteis para a tomada de decisão.
 
 🚀 Sobre mim
-🎓 Estudante de Administração
+
+🎓 Formado de Administração
+
+🎓 Estudando de Engenharia de Software
+
 💻 Interesse em Desenvolvimento Web e Backend
+
 📊 Interesse em Análise e Visualização de Dados
+
 🤖 Interesse em Automação de Processos
+
 🗄️ Estudando desenvolvimento e gerenciamento de bancos de dados
+
 📚 Sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos
+
 🛠️ Minha Stack
 Linguagens e Desenvolvimento
 Python
