@@ -21,24 +21,25 @@ Busco unir conhecimentos de gestão e tecnologia para desenvolver soluções que
 📚 Sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos
 
 🛠️ Minha Stack
-Linguagens e Desenvolvimento
-Python
-JavaScript
-HTML5
-CSS3
-Banco de Dados
-SQL
-PostgreSQL
-Dados e Business Intelligence
-Excel
-Power BI
-DAX
-Pandas
-Desenvolvimento e Ferramentas
-APIs
-Git e GitHub
-Visual Studio Code
-Modelagem de banco de dados
+Linguagens e Desenvolvimento,
+Python,
+JavaScript,
+HTML5,
+CSS3,
+Banco de Dados,
+SQL,
+PostgreSQL,
+Dados e Business Intelligence,
+Excel,
+Power BI,
+DAX,
+Pandas,
+Desenvolvimento e Ferramentas,
+APIs,
+Git e GitHub,
+Visual Studio Code,
+Modelagem de banco de dados,
+
 📊 Dashboards e Análise de Dados
 
 Projetos voltados para tratamento, análise e visualização de dados utilizando Excel, Power BI e DAX, com foco em transformar informações em indicadores e facilitar a tomada de decisões.
@@ -55,12 +56,15 @@ Análise de dados
 Business Intelligence
 Automação de processos
 Integração entre tecnologia e gestão
+
 🌱 Atualmente estudando
 
 Atualmente estou aprofundando meus conhecimentos em Python, desenvolvimento web, SQL/PostgreSQL, APIs, JavaScript e arquitetura de sistemas, buscando evoluir tanto na parte técnica quanto na compreensão das necessidades de negócio.
 
 📫 Contato
+
 💼 LinkedIn: https://www.linkedin.com/in/rafael-ferraioli-01729a18b/
+
 🐙 GitHub: https://github.com/burnysw
 
 ⭐ Obrigado por visitar meu perfil!
